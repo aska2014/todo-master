@@ -1,0 +1,5 @@
+export default {
+	"GET_ALL": "TODO.GET_ALL",
+	"CREATE": "TODO.CREATE",
+	"TOGGLE_COMPLETE": "TODO.TOGGLE_COMPLETE"
+};
